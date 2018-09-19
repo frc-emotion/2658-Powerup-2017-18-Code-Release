@@ -1,8 +1,10 @@
-# Powerup
+<p align="center">
+  <a href='https://www.team2658.org/'><img width="250" alt='E-Motion Website' src='/images/emotion_logo.png'/></a>
+</p>
 
-<a href='https://www.team2658.org/'><img width="250" alt='E-Motion Website' src='/images/emotion_logo.png'/></a>
-
-Source code for running Team 2658's robot.
+<h1 align="center">
+  Team 2658's Robot Code for FIRST Power Up
+</h1>
 
 ## Eclipse IDE
 * Recommended by Daniel Pham
