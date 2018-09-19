@@ -51,17 +51,3 @@
 1. Right click the parent directory.
 2. If you go under `Git`, you will see some Git commands, and if you go one step further into `Repository`, you'll see more.
 
-## Contributing
-First, you must create your own branch. On IntelliJ, press `Ctrl + Shift + K`. Once the push window pops up, click on the branch,
-which is after the colon. `master --> origin: gokul-branch`. Name your branch. This is the branch you must push to and commit changes to.
-
-Pull requests let you tell others about changes
-you've pushed to a GitHub repository. Once a pull request
-is sent, interested parties can review the set of changes,
-discuss potential modifications, and even push follow-up commits
-if necessary. To create a pull request from your branch, go to your branch
-on Github. Click on the `Pull requests` tab. Then, click on `New pull requests`.
-The base should be `master`, while the compare should be your branch. Click `Create pull request`.
-The title should be the main thing you changed, and in the body list all the minor changes you did.
-After you create it, there should be a button called `Merge`. Do not click it. The team leads
-will look over your work, and once they are satisfied, they will merge your branch and the main.
